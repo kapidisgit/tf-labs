@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "autoinfra-20201020-student8xin",
+  "private_key_id": "5af7e00282dcc61582fa23809a1137daa4505578",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnunrvGoq6Ty88\nx2SxiQmvaseSxjW5AVREL37fBuZpRhiZoE8UMJVE/MtKuPsyR/AY4CqFqWtyZGZz\nPljKSffduSt74wH2BTWJAE1ifmsCAHJh6gFCaqWMWeRI6+LXptuvVOTv+EJblvsv\nn3VcCqUjBqFJLcgkfiQtotCX2v9lEueRm83ftKZhr41gCrZkI7+8h0mi8zjUXdgD\nPPLPABuHpfYOgyQHgr701appifxKSyASMUjXnc5wVjpEG3HPAxH6d3huzOd8dFEz\nBtWGhL2l1J7UiO2L4wh+dM+rKa2W02mJsJraVE/9jqKHZfTChPfQgzToVBeJIPUR\npeHM2lHXAgMBAAECggEAAIqt+kxipaa7J1Nu3tKWJmvjiHTSwu3fK3ffzVvvWJMH\nt09OPL7KF0vzDXhlefcY2RZi7MWW+ZVGGMSFyDl5mcy5ouUhIiide1DLRIXWAKP8\nZUE6jyVbCDCuImd99xEB5Uy9OeKFDFiuJ6w4gSXuUfD5NQxMeNmzcjZJaC7ROQQC\nRKJMeJcSA7VMHZgeh9VIkDrrE0qUvB388VEgFc5YoRQXiDxwaZcvPg+WwB8OrhXO\nZCiS53YVd2AOw/zST66nb4aVzqE9+cFC4c37nFb4Uvs+4VYKtQACYjLoXZccMeeJ\ngfRCP9RITzDozO9acF/4PJKN7jFP0PhUS3vYs51/EQKBgQDn1c/uHXllXTMBCwFJ\nbY/4QG7haz6E5PqacIrpfJDg8WxWKYY0/wL6ZXwWK33WyrvKnXs0BontDmGmT5uP\ndVLTxF72QSI2DIUWiS2BNQWjYRQ0k8QZQBPSfL89fEDbQYOuApRVhVSOETzetUMH\nr1i32czOArlH+jiBTMIXdPP8eQKBgQC5NhJMVyUn4w0WvmDCFdg8/IVKiMBc0RVc\nPylJGkcxm2ZxIrRjge5uy5+NVhDSRu8cQFgSWvgmkoGCkJ1bFs69Y6Be2CO2R1VD\nDMizeYMjMlLs+eioTVyn2KONjKvNelJ1l4TX+NdGY8pRHIh4fYNlm3NGJQJo0UBr\n7qV7K7eMzwKBgQDNb2Az5pZeRjoeIHxhbt7241HeGsRpyuZu2G+f+yv+yLBxoZY1\nfAxNioRsuNln7np+TxKPxYOPNwE8+Komc5aT5R0pJgqEzo9YqvJR3oRChJH9DTvm\nDCwEh1qHx4VJRULEfbCoH+APjCLeTs05EB6TvEKKA0vgBlDv8u7DDnXuMQKBgQC2\nX7US8PjIVv4reBlk5AfCvdEufIwWmVeUNymbL0INaf0syESie23iMaWRkb8MoAaR\nZhaTNHqH2NmoTGh2KnY27WQcIG7B7WnalTsH504nGUWozci3+T2UlXEvT+ZYdeu+\nmQ2ZcRHh4R92UUdchhMduT2AQ68ksW/jF+Jg78JU5wKBgD0cNVN3zygJ1QCMCSIL\nouqjhBA6V93vB+tJdybWRRnWdXT5XgnzXWVe1yCohuTOxat0WaVmEQgBLnJD+iee\nlplQe68fE00ppP50tUQLMouNyKEPoCI3WDmeQoFRzEqtyyrGfH/2lK9/Y53U24wj\nM/55dscG0l9U63WBoRiIejWR\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenkins@autoinfra-20201020-student8xin.iam.gserviceaccount.com",
+  "client_id": "110509354629095536103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkins%40autoinfra-20201020-student8xin.iam.gserviceaccount.com"
+}

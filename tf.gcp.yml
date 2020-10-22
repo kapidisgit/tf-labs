@@ -1,6 +1,6 @@
 plugin: gcp_compute
 projects:
-  - student1gcp-istio
+  - autoinfra-20201020-student8xin-tfstate
 auth_kind: serviceaccount
 service_account_file: creds/jenkins-sa.json
 filters: []
